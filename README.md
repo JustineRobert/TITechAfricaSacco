@@ -1,4 +1,4 @@
-# TITech Africa Sacco - MERN STACKS
+# GLOBALSACCO - MERN STACKS
 
 >Sacco Members Management System using MERN Stack (NodeJS, ReactJS, ExpressJS and MongoDB).
 
@@ -45,12 +45,12 @@ module.exports = {
 Admin Username: test@test.com
 Password : password
 
-If you want to hire me in your MERN Stack Project contact me via : [Email](igunejutinerobert@gmail.com)
+If you want to hire me in your MERN Stack Project contact me via : [Email](dickensjuma13@gmail.com)
 
 ### Author
 
 
-[Igune Justine Robert](https://github.com/JustineRobert)
+[DickensJuma](https://github.com/DickensJuma)
 
 ### Version
 
