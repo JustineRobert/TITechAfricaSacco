@@ -1,20 +1,20 @@
-# GLOBALSACCO - MERN STACKS
+# TITECHSACCO - MERN STACKS
 
->Sacco Members Management System using MERN Stack (NodeJS, ReactJS, ExpressJS and MongoDB).
+>Sacco Members Management System using MERN Stack (NodeJS, ReactJS, ExpressJS, and MongoDB).
 
-1. Create and Manage Sacco members Profile
-2. Apply for Shares Transfer request
+1. Create and Manage Sacco Members Profile
+2. Apply for a share transfer request
 3. Sacco member Loan apply (Release on next update)
 
-More features will me coming in future... keep watch my updates
+More features will be coming in the future... keep watching my updates
 
 ## Quick Start
 
 ```bash
-# Install dependencies for server
+# Install dependencies for the server
 npm install
 
-# Install dependencies for client
+# Install dependencies for the client
 npm run client-install
 
 # Run the client & server with concurrently
@@ -43,14 +43,14 @@ module.exports = {
 
 
 Admin Username: test@test.com
-Password : password
+Password: password
 
-If you want to hire me in your MERN Stack Project contact me via : [Email](dickensjuma13@gmail.com)
+If you want to hire me for your MERN Stack Project contact me via [Email](igunejustinerobert3@gmail.com)
 
 ### Author
 
 
-[DickensJuma](https://github.com/DickensJuma)
+[Igune Justine Robert](https://github.com/JustineRobert)
 
 ### Version
 
